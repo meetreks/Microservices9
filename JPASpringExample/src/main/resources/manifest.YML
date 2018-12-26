@@ -1,0 +1,5 @@
+applications:
+- name: JPASpringExample
+  instances: 1
+  host: JPASpringExample
+  path: target/JPASpringExample-0.0.1-SNAPSHOT
